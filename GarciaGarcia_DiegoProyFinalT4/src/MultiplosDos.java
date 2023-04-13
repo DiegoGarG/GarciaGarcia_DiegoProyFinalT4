@@ -11,7 +11,7 @@ public class MultiplosDos {
 	 * @param inicio el primer número del rango (debe ser mayor o igual a 0 y menor
 	 *               o igual a 999)
 	 *
-	 * @return un array de enteros que contiene los múltiplos de 2 en el rango
+	 * @return un array de enteros que contiene los múltiplos de 2 en el rang
 	 *         especificado
 	 * @throws IllegalArgumentException si alguno de los parámetros introducidos
 	 *                                  produce una incoherencia (1 - 999)
