@@ -12,6 +12,7 @@ public class GarciaGarcia_DiegoProyFinalT4 {
 			System.out.println(cadena);
 		}
 		System.out.println("Aquí termina el programa");
+		System.out.println("Esto es para ver el comando diff");
 	}
 
 }
